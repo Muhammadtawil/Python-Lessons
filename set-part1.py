@@ -10,7 +10,7 @@
 
 # Not Ordered And Not Indexed
 
-mySetOne = {"Osama", "Ahmed", 100}
+mySetOne = {"Mark", "edwen", 100}
 print(mySetOne)
 # print(mySetOne[0])
 
@@ -28,5 +28,5 @@ print(mySetThree)
 
 # Items Is Unique
 
-mySetFour = {1, 2, "Osama", "One", "Osama", 1}
+mySetFour = {1, 2, "Mark", "Edwen", "Mark", 1}
 print(mySetFour)
